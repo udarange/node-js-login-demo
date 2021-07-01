@@ -4,9 +4,10 @@ Node.js Passport Login System Tutorial
 ## technology stack
 
 * express
-* ejs
+* ejs // template engine - generate dynamic html
 * express-flash
 * express-session
 * passport
 * passport-local
+* nodemon // automatically restart the server
 
